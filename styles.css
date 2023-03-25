@@ -1,0 +1,24 @@
+     /* tag */
+h1{
+    color: red;
+    font-size: 50px;
+    /* class */
+}
+/* class */
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.text{
+    font-size: 50px;
+}
+.circular{
+    border-radius: 100%;
+}
+/* id */
+#Heading{
+    color: red;
+    font-size: 100px;
+}
